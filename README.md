@@ -86,8 +86,16 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📧 Contact
 
-For any questions or feedback, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, please contact us at [sanjeevsinghsaini48@gmail.com](mailto:sanjeevsinghsaini48@gmail.com).
+
+
+## ScreenShots
+![image](https://github.com/Sanjeev12357/Job-Finder-/assets/124911392/1ff47af1-fb90-4224-ae52-2031cc9171fd)
+![image](https://github.com/Sanjeev12357/Job-Finder-/assets/124911392/e9b8911f-014c-4302-881f-3370eb9e7663)
+![image](https://github.com/Sanjeev12357/Job-Finder-/assets/124911392/80b7c1ab-8922-4ff4-b42f-211838e66454)
+
+
 
 ---
 
-Feel free to further customize the README to better suit your needs!
+
